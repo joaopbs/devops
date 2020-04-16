@@ -1,3 +1,3 @@
 # devops
-Básico git e github
-João Paulo
+Básico git e github<br>
+João Paulo<br>																	Bora Praticar
